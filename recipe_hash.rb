@@ -1,9 +1,9 @@
 #code your solutions here
 
 #1. Create a hash called `perfect_10_recipe` that has the following data:
-perfect_10_recipe = {}
-perfect_10_recipe = [
-:almond flour => "2 cups"
+
+perfect_10_recipe = {
+:almond_flour => "2 cups"
 ,:gluten freewhole oats => "1 cup"
 ,:kosher salt => "1/2 tea spoon"
 ,:baking powder => "1/2 tea spoon"
@@ -13,7 +13,7 @@ perfect_10_recipe = [
 ,:mini dark chocolate chips => "3/4 cup"
 ,:olive oil => "1/2 cup"
 ,:agave => "1/4 cup"
-]
+}
 
 
 #  - almond flour - 2 cups
